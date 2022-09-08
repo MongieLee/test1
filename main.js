@@ -1,1 +1,5 @@
-console.log("第一版本");ls
+console.log("第一版本");
+
+function a() {
+  console.log("第二版本");
+}
